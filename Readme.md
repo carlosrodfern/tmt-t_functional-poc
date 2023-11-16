@@ -1,3 +1,5 @@
+Moved here: [https://gitlab.com/CentOS/Integration/compose-tests](https://gitlab.com/CentOS/Integration/compose-tests)
+
 # Quick Start
 
 On Centos Stream 9 as `root`:
